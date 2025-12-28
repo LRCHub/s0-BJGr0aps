@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "おやすみ泣き声、さよなら歌姫 at I SCREAM LIVE (Cover)",
+  "base_artist": "花譜",
+  "createdAt": "2025-12-28T09:49:25.605521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おやすみ泣き声、さよなら歌姫",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_おやすみ泣き声、さよなら歌姫_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おやすみ泣き声、さよなら歌姫 - Oyasumi Nakigoe,Sayonara Utahime",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_おやすみ泣き声、さよなら歌姫_-_Oyasumi_Nakigoe,Sayonara_Utahime_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみ泣き声、さよなら歌姫",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみ泣き声、さよなら歌姫_花譜.txt"
+    }
+  ]
+}
